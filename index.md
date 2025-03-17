@@ -12,7 +12,7 @@ hero_image_ratio: is-1by1
 Elève ingénieur en première année de cycle pré-ingénieur.
 
 
-Disponible XX mois à partir de Date
+Disponible de mi-juin à mi-juillet
 
 [matthieu.gaujour@etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
 
