@@ -8,15 +8,15 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Matthieu GAUJOUR
+Elève ingénieur en première année de cycle pré-ingénieur.
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[matthieu.gaujour@etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
+Permis de plongée à 20m, poisson
 
