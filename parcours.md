@@ -11,11 +11,11 @@ download_cv: assets/docs/Template_CV.pdf
 `20XX – 20XX`
 **Nom de votre école**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en première année de cycle pré-ingénieur
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
+`2024 – 2029`
+**Diplome d'ingénieur** - Unilasalle
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX`
