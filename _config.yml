@@ -1,11 +1,11 @@
 lang: fr
-title: Prénom NOM
+title: Matthieu GAUJOUR
 description: Template pour la création d'un repo type CV
 theme: bulma-clean-theme
 
 url: https://github.com/gorinje/craft-the-cv2
 
-force_theme: light
+force_theme: dark
 permalink: pretty
 lang: fr
 theme_color: '#ef2e31'
