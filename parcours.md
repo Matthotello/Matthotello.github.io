@@ -38,9 +38,9 @@ Ouvrier stagiaire sur chantier
 * Couller le bêton (bétonnière, placer le bêton dans les coffrages)
 * Déplacement de matériel (grue,accrocher le matériel à la grue pour le deplacer plus efficacement)
 
-`2025` **Unimaker, 35 membres**
+`2025` **Unimakers, environ 50 membres**
 
-Membre d'Unimaker
+Membre d'Unimakers
 * Aide dans la conception, modélisation, programation d'un robot créer pour participer à une coupe de robotique
 
 ## Compétences
