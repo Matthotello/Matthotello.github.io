@@ -18,4 +18,5 @@ Disponible de mi-juin à mi-juillet
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis de plongée à 20m,
+Permis de plongée à 20m
+
