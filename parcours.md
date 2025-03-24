@@ -8,18 +8,18 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**Unilasalle**
 
-Elève ingénieur en première année de cycle pré-ingénieur
-* Cours : préciser les cours en phase avec le poste visé
+Première année de cycle pré-ingénieur
+* Cours préparatoires dans le but d'une psécialisation dans un domaine d'ingénieurie
 
 `2024 – 2029`
 **Diplome d'ingénieur** - Unilasalle
-* Cours : préciser les cours en phase avec le poste visé
+* Cours préparatoires dans le but d'une psécialisation dans un domaine d'ingénieurie
 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac Maths/Physique , mention assey bien , Amiens lycée Madeleine Michelis
 
 ## Expériences
 
@@ -31,37 +31,39 @@ _Réalisé en équipe de XX étudiants_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` **SMCB, travaux publiques , chantier de 20 logements, Abeville**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+Ouvrier stagiaire sur chantier
+* Coffrage (marteaux, placer du bois de sorte à ce qu'il ne bouge pas, pour y couller du bêton)
+* Couller le bêton (bétonnière, placer le bêton dans les coffrages)
+* Déplacement de matériel (grue,accrocher le matériel à la grue pour le deplacer plus efficacement)
 
-`20XX` **Association, description de l’asso., taille**
+`2025` **Unimaker, 35 membres**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+Membre d'Unimaker
+* Aide dans la conception, modélisation, programation d'un robot créer pour participer à une coupe de robotique
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : B2+ (résultat d’examen)
+* LV2 Espagnol : B1 (résultat d’examen)
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Phython
+* Arduino
+* Github
+* Kicad
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Permis de plonger
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Loisirs 1 : Plongée
+* Plonger sous la mer Méditerranée
+* Découvrir la faune et phlore sous marine 
 
-Loisirs 1
-* Description 
-* Description 
+Loisirs 2 : Escalade
+* Escalader des blocs de difficultés différente 
+* Viaferata, découvrir les paysages magnifiques des hauteurs
